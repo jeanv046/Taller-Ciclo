@@ -27,9 +27,9 @@ while(aux):
         aux = False
         
 print(f"La ciudad de Barranquilla ingresaron {contador} automoviles")
-print(f"Entran {amarillo} automóviles con calcomanía amarilla")
-print(f"Entran {rosa} automóviles con calcomanía rosa")
-print(f"Entran {roja} automóviles con calcomanía roja")
-print(f"Entran {verde} automóviles con calcomanía verde")
-print(f"Entran {azul} automóviles con calcomanía azul")
+print(f"Entran {amarillo} automóviles con calcomanía Amarilla")
+print(f"Entran {rosa} automóviles con calcomanía Rosa")
+print(f"Entran {roja} automóviles con calcomanía Roja")
+print(f"Entran {verde} automóviles con calcomanía Verde")
+print(f"Entran {azul} automóviles con calcomanía Azul")
 
